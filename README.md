@@ -55,7 +55,7 @@ Arbitrary precision mathematics library implemented in pure V.
 This library is being developed actively by me i.e. Subhomoy Haldar [@hungrybluedev](https://twitter.com/hungrybluedev). If you want to get involved you can do the following:
 
 1. Create Feature Requests on the [Issues tab](https://github.com/hungrybluedev/bigmath/issues).
-2. Report a bug in the [Issues tab]https://github.com/hungrybluedev/bigmath/issues and then submit a [Pull Request](https://github.com/hungrybluedev/bigmath/pulls) that fixes the bug if you can.
+2. Report a bug in the [Issues tab](https://github.com/hungrybluedev/bigmath/issues) and then submit a [Pull Request](https://github.com/hungrybluedev/bigmath/pulls) that fixes the bug if you can.
 3. Stay in touch
     - Drop by on the [Official V Lang Discord Server](https://discord.gg/vlang) - I'm fairly active there.
     - Follow me on Twitter [@hungrybluedev](https://twitter.com/hungrybluedev). 
