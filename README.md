@@ -4,7 +4,7 @@ Arbitrary precision mathematics library implemented in pure V.
 
 ## Initial Goals
 
-1. The main aim for this project is to be a drop-in replacement for V's [math/big](https://github.com/vlang/v/tree/master/vlib/math/big).
+1. The main aim for this project is to be a replacement for V's [math.big](https://github.com/vlang/v/tree/master/vlib/math/big).
 2. Have no dependency on external thridparty libraries.
 3. Be written completely in V.
 4. Implement the following types:
@@ -49,6 +49,11 @@ Arbitrary precision mathematics library implemented in pure V.
 ### 0.5.0
 
 - [ ] Constructible Real (`Real`) is feature complete.
+
+
+## Documentation
+
+The Documentation for the publicly accessible API is available [here](/docs).
 
 ## Under Active Development
 
