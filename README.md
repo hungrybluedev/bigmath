@@ -53,7 +53,7 @@ Arbitrary precision mathematics library implemented in pure V.
 
 ## Documentation
 
-The Documentation for the publicly accessible API is available [here](/docs).
+The Documentation for the publicly accessible API is available [here](/docs.md).
 
 ## Under Active Development
 
